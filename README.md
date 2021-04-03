@@ -1,4 +1,3 @@
-Vinh EC, [03.04.21 09:35]
 ### Hello there 🌙 🖥
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -8,13 +7,16 @@ Vinh EC, [03.04.21 09:35]
 - 🖐 I'm Lam Hoang An
 - 🖥 I’m currently work from Home
 - 🌱 I’m currently learning Docker, AWS
-- 📫 How to reach me: [Facebook](https://twitter.com/DaoHongVinh1)\
+- 📫 How to reach me: [Facebook](https://www.facebook.com/lam.an.301299)\
 - 😄 Pronouns: He/His
 - ⚡️ Fun fact: You cannot complete a project without using StackOverflow
 
 ### Skills
 
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-typescript-F0DB4F?style=for-the-badge&labelColor=black&logo=typescript&logoColor=F0DB4F)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![React Badge](https://img.shields.io/badge/-ReactJs-007acc?style=for-the-badge&labelColor=black&logo=reactjs&logoColor=007acc)](#) 
 
 ### Extra Pins
 
@@ -36,8 +38,7 @@ Vinh EC, [03.04.21 09:35]
    </a>
 </p>
 
-- [Blog](https://lambiengcode.blogspot.com)
-- [My CV](https://i.topcv.vn/daohongvinh?ref=3944746)
+- [Facebook](https://www.facebook.com/lam.an.301299)
 
 ### Github Stats
 
