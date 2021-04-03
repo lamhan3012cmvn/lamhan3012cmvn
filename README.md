@@ -1,6 +1,6 @@
 ### Hello there 🌙 🖥
 
-<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
+<img src='https://media2.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif' width='400"' height='250"'>
 
 ### About me 🐬
 
