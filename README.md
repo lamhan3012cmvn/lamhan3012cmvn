@@ -27,7 +27,6 @@
 
 ### Resume
 <p align="center">
-  <img src='https://i.gifer.com/6tXM.gif' width='120"' height='80"'>
   <img src='https://giffiles.alphacoders.com/360/36083.gif' width='120"' height='80"'>
   <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
    <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'>
