@@ -47,9 +47,6 @@
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lamhan3012cmvn">https://profile-summary-for-github.com/user/lamhan3012cmvn</a>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lamhan3012cmvn&theme=blueberry" alt="lamhan3012cmvn"/>
-</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=lamhan3012cmvn&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
